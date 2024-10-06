@@ -45,7 +45,7 @@ CV Generator is an **HTML5**, **CSS3** and **Javascript** only project that allo
 
 ## Demo
 
-Live demo here: [live demo](https://leag76.github.io/cv-generator/ "Go to the live demo")
+Live demo here: [live demo](https://deveo-nc.github.io/cv-generator/ "Go to the live demo")
 
 ## Get started
 
