@@ -180,18 +180,22 @@ function loadCV(cvPath) {
             updateContent('#home-img', el => el.src = data.profil_path);
             updateContent('.home_profession', el => el.innerHTML = data.profession);
             updateContent('.home_information:nth-child(1)', el => {
+                el.innerHTML = '<i class="fa-solid fa-location-dot home_icon"></i>';
                 el.querySelector('.home_icon').insertAdjacentText('afterend', ` ${data.location}`);
             });
             updateContent('.home_information:nth-child(2) a', el => {
                 el.href = `mailto:${data.email}`;
+                el.innerHTML = '<i class="fa-solid fa-envelope home_icon"></i>';
                 el.querySelector('.home_icon').insertAdjacentText('afterend', ` ${data.email}`);
             });
             updateContent('.home_information:nth-child(3) a', el => {
                 el.href = `tel:${data.phoneWithIndicator}`;
+                el.innerHTML = '<i class="fa-solid fa-phone home_icon"></i>';
                 el.querySelector('.home_icon').insertAdjacentText('afterend', ` ${data.phone}`);
             });
             updateContent('.profile_description', el => el.innerHTML = data.profile);
 
+            document.querySelector('.social_container').innerHTML = '';
             data.social.forEach((social) => {
                 document.querySelector('.social_container').innerHTML += `                            
         <a href="${social.href}" target="_blank" class="social_link">
