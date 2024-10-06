@@ -1,0 +1,149 @@
+{
+  "lastname": "OLIVE",
+  "firstname": "Jean-Paul",
+  "profil_path": "assets/pictures/jean_paul_olive.png",
+  "profession": "Développeur Fullstack",
+  "location": "blabla - 98800 yahoué",
+  "email": "jean-paul.olive@deveo.nc",
+  "phoneWithIndicator": "+687??????",
+  "phone": "?? ?? ??",
+  "social": [
+    {
+      "href": "https://github.com/JP",
+      "description": "JP",
+      "icon": "fa-github"
+    },
+    {
+      "href": "https://www.linkedin.com/in/JP/",
+      "description": "Jean-Paul OLIVE",
+      "icon": "fa-linkedin"
+    }
+  ],
+  "profile": "Blablabl ablaadz...",
+  "skills": [
+    {
+      "name": "Javascript",
+      "level": "100%"
+    },
+    {
+      "name": "Java",
+      "level": "95%"
+    },
+    {
+      "name": "Angular",
+      "level": "95%"
+    },
+    {
+      "name": "HTML 5",
+      "level": "95%"
+    },
+    {
+      "name": "CSS 3",
+      "level": "85%"
+    },
+    {
+      "name": "Spring Boot",
+      "level": "85%"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "90%"
+    },
+    {
+      "name": "Github",
+      "level": "90%"
+    },
+    {
+      "name": "Next.JS",
+      "level": "80%"
+    },
+    {
+      "name": "React",
+      "level": "80%"
+    },
+    {
+      "name": "Python",
+      "level": "90%"
+    },
+    {
+      "name": "Quarkus",
+      "level": "60%"
+    }
+  ],
+  "languages": [
+    {
+      "description": "Français",
+      "level": 5
+    },
+    {
+      "description": "Anglais",
+      "level": 4
+    },
+    {
+      "description": "Espagnol",
+      "level": 4
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Developpeur Fullstack - DEVEO",
+      "company": "OPT | Service postal - Nouméa",
+      "year": "Février 2024 - Maintenant",
+      "description": "Hors projet</br>- Développement de lots d'évolutions (Projet SIBP et SIOR)</br>- Maintenance évolutive, mise à jour des frameworks sur leurs versions récentes (Spring 3 / Angular 18)</br>- Maintenance corrective des différentes applications du service postal"
+    },
+    {
+      "title": "Developpeur Fullstack - DEVEO",
+      "company": "OPT | Service postal - Nouméa",
+      "year": "Décembre 2023 - Février 2024",
+      "description": "Projet OPT-SMS</br>- Etude de documentation des API du prestataire de service NativIP</br>- Intégration de leurs API afin de pouvoir envoyer des SMS à l'international depuis les différentes applications de l'OPT"
+    },
+    {
+      "title": "Developpeur Fullstack - DEVEO",
+      "company": "OPT | Service postal - Nouméa",
+      "year": "Octobre 2023 - Décembre 2023",
+      "description": "Projet SIDO Mobile</br>- Migration Angular 7 vers Angular 16</br>- Migration Cordova vers Capacitor</br>- Migration ionic 4 vers Ionic 7</br>- Migration du projet de Gitlab vers Github</br>- Migration de la CI de Jenkins vers Github Actions</br>- Livraison des évolutions"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ingénieur Réseaux et Systèmes d'Information",
+      "studies": "ENSEIRB-MATMECA, Institut Polytechnique de Bordeaux - Bordeaux - France",
+      "year": "2010 - 2013"
+    },
+    {
+      "title": "BTS Informatique et Réseaux pour l'Industrie et les Services Techniques (IRIST)",
+      "studies": "Lycée Gaston Crampe - Aire-sur-l'Adour - France",
+      "year": "2008 - 2010"
+    }
+  ],
+  "interests": [
+    {
+      "title": "Plongée N3",
+      "icon": "fa-water"
+    },
+    {
+      "title": "Photo",
+      "icon": "fa-camera"
+    },
+    {
+      "title": "Movies/Series",
+      "icon": "fa-film"
+    },
+    {
+      "title": "Padel",
+      "icon": "fa-table-tennis-paddle-ball"
+    },
+    {
+      "title": "Program",
+      "icon": "fa-code"
+    },
+    {
+      "title": "Running",
+      "icon": "fa-person-running"
+    },
+    {
+      "title": "Jeux de société",
+      "icon": "fa-dice"
+    }
+  ]
+}
